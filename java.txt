@@ -1,0 +1,122 @@
+<head>
+ </center> 
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+     <title>Resume</title>
+
+     <style type="text/css">
+        * { margin: 0; padding: 0; }
+        body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background: url(images/noise.jpg); }
+        .clear { clear: both; }
+        #page-wrap { width: 800px; margin: 40px auto 60px; }
+        #pic { float: right; margin: -30px 0 0 0; }
+        h1 { margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold; letter-spacing: -2px; border-bottom: 1px solid #800000; }
+        h2 { font-size: 20px; margin: 0 0 6px 0; position: relative; }
+        h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #800000; font-weight: normal; }
+        p { margin: 0 0 16px 0; }
+        a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
+        a:hover { border-bottom-style: solid; color: black; }
+        ul { margin: 0 0 32px 17px; }
+        #objective { width: 500px; float: left; }
+        #objective p { font-family: Georgia, Serif; font-style: italic; color: #FAC205; }
+        dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #FAC205;  }
+        dd { width: 600px; float: right; }
+        dd.clear { float: none; margin: 0; height: 15px; }
+     </style>
+</head>
+
+<body>
+
+<body bgcolor=#ff99ff">
+
+    <div id="page-wrap">
+    
+       <img src="https://https://www.google.com/search?q=angelina+Jolie+tombraider+photo&tbm=isch&ved=2ahUKEwiKnaiFz-vnAhXPm54KHRs6BWwQ2-cCegQIABAA&oq=angelina+Jolie+tombraider+photo&gs_l=img.3...83449.86931..87154...0.0..0.98.907.11......0....1..gws-wiz-img.......0i8i7i30.wIg1c0N0OPs&ei=N4FUXsqlAs-3-gSb9JTgBg&bih=859&biw=1200#imgrc=KAjTLy3DuOZvAM alt="3D HTML" width="317" height="218">
+    
+        <div id="contact-info" class="vcard">
+        
+            <!-- Microformats! -->
+        
+            <h1 class="fn">Carilyn Jablon</h1>
+        
+            <p>
+                Cell: <span class="tel">805-231-9942</span><br />
+                Email: <a class="email" href="mailto:carilynjablon@att,net">carilynjablon@att.net</a>
+            </p>
+        </div>
+              
+        <div id="objective">
+            <p>
+              <font color=purple> To become a member of a medical/surgical team and assist in a wide array of duties including instrument sterilization, management and ordering supplies while providing superior care and attention to detail for patients.  
+            </p>
+        </div>
+        </font color=purple>
+        <div class="clear"></div>
+        
+        <dl>
+            <dd class="clear"></dd>
+             </center> 
+           <dt>EDUCATION:</dt>
+            <dd>
+                <h2>New York University</h2>
+                <p><strong>Bachelor of Science</strong> Surgery<br />
+                 <h2>Surgical College of the Pacific</h2>
+                <p><strong>Certificate</strong> Surgical Assistant<br />
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            <ul><dt>EXPERTISE AND ACHIEVEMENTS:</dt></ul>
+            <dd>
+                
+            
+            
+                <ul><h2>Saint Johns Health Center<span></ul><p><i><b><font color=orange>Surgical Assistant</font color=orange> - Santa Monica, CA - 2011-present</span></h2>
+                <ul>
+                    <li>Certified Surgical Technologist</li>
+                    <li>Manager of sterile processing department</li>
+                    <li>Ability to order supplies and implants</li>
+                    <li>Knowledge of billing and receiving</li>
+                  
+                </ul>
+                
+               <ul><h2>Los Robles Medical Center<span></ul><p><i><b><font color=orange>Surgical Assistant</font color=orange> - Thousand Oaks, CA - 2009-2011</span></h2>
+                <ul>
+                    <li>Scrubbed in on a variety of cases in the main OR </li>
+                    <li>Proper handling of sponges, solutions, instruments and specimens</li>
+                    <li> Excellent aseptic technique</li>
+                    <li> Excellent knowledge of the Epic Hyperspace computer system</li>
+                </ul> 
+              
+              <ul><h2>Northshore University Medical Center <span></ul><font color=orange>Clinical Laboratory Scientist</font color=orange> - Great Neck, New York - 2000-2008</span></h2>
+                <ul>
+                    <li>Worked as a Fertility Technician to help aid infertile couples by performing microscopic semen analysis</li>
+                    <li> Sperm washing for injection </li>
+                    <li> Performed studies on the effects of sexually transmitted diseases and infertility</li>
+                 
+                </ul> 
+            </dd>
+            
+            <dd class="clear"></dd>
+            
+            
+            <dd class="clear"></dd>
+            
+            <dt>REFERENCES:</dt>
+            <dd><ol>
+  <li>Albert Einstein - Professor - (805) 231-6127</li>
+  <li>Dr. Frankenstein - Evil Genius - (805) 231-6127</li>
+  <li>Hot Lips Houlihan  - Registered Nurse - (805) 231-6127</li>
+</ol></dd>
+            
+            <dd class="clear"></dd>
+        </dl>
+        
+        <div class="clear"></div>
+    
+    </div>
+</body bgcolor=#ff99ff">
+</body>
+
+</html>
+
